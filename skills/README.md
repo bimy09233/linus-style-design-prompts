@@ -17,3 +17,10 @@ Skills 具有四个特点：
 ## 使用方法
 
 将 skill 文件夹复制到 `~/.claude/skills/` 目录下即可使用。
+
+## 可用技能
+
+| 技能 | 描述 | 依赖 |
+|------|------|------|
+| `taste-check` | 基于 Linus Torvalds "好品味"哲学的代码审查 | 无 |
+| `research` | 使用 GitHub 和 Exa 搜索进行技术研究 | 需要 `mcp-router` MCP 服务器 |
