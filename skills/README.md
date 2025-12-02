@@ -24,3 +24,4 @@ Skills 具有四个特点：
 |------|------|------|
 | `taste-check` | 基于 Linus Torvalds "好品味"哲学的代码审查 | 无 |
 | `research` | 使用 GitHub 和 Exa 搜索进行技术研究 | 需要远程 MCP：[mcp.exa.ai](https://mcp.exa.ai/mcp)、[mcp.grep.app](https://mcp.grep.app) |
+| `codex-cli` | 编排 OpenAI Codex CLI 进行并行任务执行 | 需要预装 [Codex CLI](https://developers.openai.com/codex/cli/) |
